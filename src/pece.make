@@ -478,6 +478,14 @@ projects[date_popup_authored][version] = 1.2
 projects[link][subdir] = contrib
 projects[link][version] = 1.4
 
+; Caption filter
+projects[caption_filter][subdir] = contrib
+projects[caption_filter][version] = 1.x-dev
+
+; Wysiwyg filter
+projects[wysiwyg_filter][subdir] = contrib
+projects[wysiwyg_filter][version] = 1.6-rc3
+
 ; =====================
 ; Imports
 ; =====================
