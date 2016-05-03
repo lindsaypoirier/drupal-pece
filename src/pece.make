@@ -458,6 +458,34 @@ projects[services_views][version] = 1.1
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.1
 
+;Views
+projects[views][subdir] = contrib
+projects[views][version] = 3.13
+
+; Uuid
+projects[uuid][subdir] = contrib
+projects[uuid][version] = 1.0-beta1
+
+; Fieldable panels panes
+projects[fieldable_panels_panes][subdir] = contrib
+projects[fieldable_panels_panes][version] = 1.9
+
+; Date popup authored
+projects[date_popup_authored][subdir] = contrib
+projects[date_popup_authored][version] = 1.2
+
+;Link
+projects[link][subdir] = contrib
+projects[link][version] = 1.4
+
+; Caption filter
+projects[caption_filter][subdir] = contrib
+projects[caption_filter][version] = 1.x-dev
+
+; Wysiwyg filter
+projects[wysiwyg_filter][subdir] = contrib
+projects[wysiwyg_filter][version] = 1.6-rc3
+
 ; =====================
 ; Imports
 ; =====================
